@@ -1,4 +1,4 @@
-## Hi there, I'm Clover,👋
+## Hi there, I'm Clover🌱,
 
 a college student studying and exploring the world of software development.
 
